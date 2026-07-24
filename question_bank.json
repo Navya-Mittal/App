@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "q0001",
+    "emotion_category": "happy",
+    "phrasing": "so, what's got you smiling today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0002",
+    "emotion_category": "happy",
+    "phrasing": "so, what was the best part of today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0003",
+    "emotion_category": "happy",
+    "phrasing": "so, who or what made today good?",
+    "used_count": 0
+  },
+  {
+    "id": "q0004",
+    "emotion_category": "happy",
+    "phrasing": "so, what are you feeling good about right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0005",
+    "emotion_category": "happy",
+    "phrasing": "so, what's the highlight so far?",
+    "used_count": 0
+  },
+  {
+    "id": "q0006",
+    "emotion_category": "happy",
+    "phrasing": "hey, what's got you smiling today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0007",
+    "emotion_category": "happy",
+    "phrasing": "hey, what was the best part of today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0008",
+    "emotion_category": "happy",
+    "phrasing": "hey, who or what made today good?",
+    "used_count": 0
+  },
+  {
+    "id": "q0009",
+    "emotion_category": "happy",
+    "phrasing": "hey, what are you feeling good about right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0010",
+    "emotion_category": "happy",
+    "phrasing": "hey, what's the highlight so far?",
+    "used_count": 0
+  },
+  {
+    "id": "q0011",
+    "emotion_category": "happy",
+    "phrasing": "real talk \u2014 what's got you smiling today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0012",
+    "emotion_category": "happy",
+    "phrasing": "real talk \u2014 what was the best part of today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0013",
+    "emotion_category": "happy",
+    "phrasing": "real talk \u2014 who or what made today good?",
+    "used_count": 0
+  },
+  {
+    "id": "q0014",
+    "emotion_category": "happy",
+    "phrasing": "real talk \u2014 what are you feeling good about right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0015",
+    "emotion_category": "happy",
+    "phrasing": "real talk \u2014 what's the highlight so far?",
+    "used_count": 0
+  },
+  {
+    "id": "q0016",
+    "emotion_category": "happy",
+    "phrasing": "quick check-in: what's got you smiling today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0017",
+    "emotion_category": "happy",
+    "phrasing": "quick check-in: what was the best part of today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0018",
+    "emotion_category": "happy",
+    "phrasing": "quick check-in: who or what made today good?",
+    "used_count": 0
+  },
+  {
+    "id": "q0019",
+    "emotion_category": "happy",
+    "phrasing": "quick check-in: what are you feeling good about right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0020",
+    "emotion_category": "happy",
+    "phrasing": "quick check-in: what's the highlight so far?",
+    "used_count": 0
+  },
+  {
+    "id": "q0021",
+    "emotion_category": "happy",
+    "phrasing": "okay but what's got you smiling today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0022",
+    "emotion_category": "happy",
+    "phrasing": "okay but what was the best part of today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0023",
+    "emotion_category": "happy",
+    "phrasing": "okay but who or what made today good?",
+    "used_count": 0
+  },
+  {
+    "id": "q0024",
+    "emotion_category": "happy",
+    "phrasing": "okay but what are you feeling good about right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0025",
+    "emotion_category": "sad",
+    "phrasing": "so, what's sitting heavy on you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0026",
+    "emotion_category": "sad",
+    "phrasing": "so, what happened that's bringing you down?",
+    "used_count": 0
+  },
+  {
+    "id": "q0027",
+    "emotion_category": "sad",
+    "phrasing": "so, want to talk about what's off today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0028",
+    "emotion_category": "sad",
+    "phrasing": "so, what's making today feel harder?",
+    "used_count": 0
+  },
+  {
+    "id": "q0029",
+    "emotion_category": "sad",
+    "phrasing": "so, what's the weight you're carrying right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0030",
+    "emotion_category": "sad",
+    "phrasing": "hey, what's sitting heavy on you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0031",
+    "emotion_category": "sad",
+    "phrasing": "hey, what happened that's bringing you down?",
+    "used_count": 0
+  },
+  {
+    "id": "q0032",
+    "emotion_category": "sad",
+    "phrasing": "hey, want to talk about what's off today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0033",
+    "emotion_category": "sad",
+    "phrasing": "hey, what's making today feel harder?",
+    "used_count": 0
+  },
+  {
+    "id": "q0034",
+    "emotion_category": "sad",
+    "phrasing": "hey, what's the weight you're carrying right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0035",
+    "emotion_category": "sad",
+    "phrasing": "real talk \u2014 what's sitting heavy on you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0036",
+    "emotion_category": "sad",
+    "phrasing": "real talk \u2014 what happened that's bringing you down?",
+    "used_count": 0
+  },
+  {
+    "id": "q0037",
+    "emotion_category": "sad",
+    "phrasing": "real talk \u2014 want to talk about what's off today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0038",
+    "emotion_category": "sad",
+    "phrasing": "real talk \u2014 what's making today feel harder?",
+    "used_count": 0
+  },
+  {
+    "id": "q0039",
+    "emotion_category": "sad",
+    "phrasing": "real talk \u2014 what's the weight you're carrying right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0040",
+    "emotion_category": "sad",
+    "phrasing": "quick check-in: what's sitting heavy on you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0041",
+    "emotion_category": "sad",
+    "phrasing": "quick check-in: what happened that's bringing you down?",
+    "used_count": 0
+  },
+  {
+    "id": "q0042",
+    "emotion_category": "sad",
+    "phrasing": "quick check-in: want to talk about what's off today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0043",
+    "emotion_category": "sad",
+    "phrasing": "quick check-in: what's making today feel harder?",
+    "used_count": 0
+  },
+  {
+    "id": "q0044",
+    "emotion_category": "sad",
+    "phrasing": "quick check-in: what's the weight you're carrying right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0045",
+    "emotion_category": "sad",
+    "phrasing": "okay but what's sitting heavy on you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0046",
+    "emotion_category": "sad",
+    "phrasing": "okay but what happened that's bringing you down?",
+    "used_count": 0
+  },
+  {
+    "id": "q0047",
+    "emotion_category": "sad",
+    "phrasing": "okay but want to talk about what's off today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0048",
+    "emotion_category": "sad",
+    "phrasing": "okay but what's making today feel harder?",
+    "used_count": 0
+  },
+  {
+    "id": "q0049",
+    "emotion_category": "stressed",
+    "phrasing": "so, what's piling up on you right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0050",
+    "emotion_category": "stressed",
+    "phrasing": "so, what deadline or thing is stressing you out?",
+    "used_count": 0
+  },
+  {
+    "id": "q0051",
+    "emotion_category": "stressed",
+    "phrasing": "so, what's making today feel like too much?",
+    "used_count": 0
+  },
+  {
+    "id": "q0052",
+    "emotion_category": "stressed",
+    "phrasing": "so, what's the thing you can't stop thinking about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0053",
+    "emotion_category": "stressed",
+    "phrasing": "so, what's got you tense today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0054",
+    "emotion_category": "stressed",
+    "phrasing": "hey, what's piling up on you right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0055",
+    "emotion_category": "stressed",
+    "phrasing": "hey, what deadline or thing is stressing you out?",
+    "used_count": 0
+  },
+  {
+    "id": "q0056",
+    "emotion_category": "stressed",
+    "phrasing": "hey, what's making today feel like too much?",
+    "used_count": 0
+  },
+  {
+    "id": "q0057",
+    "emotion_category": "stressed",
+    "phrasing": "hey, what's the thing you can't stop thinking about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0058",
+    "emotion_category": "stressed",
+    "phrasing": "hey, what's got you tense today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0059",
+    "emotion_category": "stressed",
+    "phrasing": "real talk \u2014 what's piling up on you right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0060",
+    "emotion_category": "stressed",
+    "phrasing": "real talk \u2014 what deadline or thing is stressing you out?",
+    "used_count": 0
+  },
+  {
+    "id": "q0061",
+    "emotion_category": "stressed",
+    "phrasing": "real talk \u2014 what's making today feel like too much?",
+    "used_count": 0
+  },
+  {
+    "id": "q0062",
+    "emotion_category": "stressed",
+    "phrasing": "real talk \u2014 what's the thing you can't stop thinking about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0063",
+    "emotion_category": "stressed",
+    "phrasing": "real talk \u2014 what's got you tense today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0064",
+    "emotion_category": "stressed",
+    "phrasing": "quick check-in: what's piling up on you right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0065",
+    "emotion_category": "stressed",
+    "phrasing": "quick check-in: what deadline or thing is stressing you out?",
+    "used_count": 0
+  },
+  {
+    "id": "q0066",
+    "emotion_category": "stressed",
+    "phrasing": "quick check-in: what's making today feel like too much?",
+    "used_count": 0
+  },
+  {
+    "id": "q0067",
+    "emotion_category": "stressed",
+    "phrasing": "quick check-in: what's the thing you can't stop thinking about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0068",
+    "emotion_category": "stressed",
+    "phrasing": "quick check-in: what's got you tense today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0069",
+    "emotion_category": "stressed",
+    "phrasing": "okay but what's piling up on you right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0070",
+    "emotion_category": "stressed",
+    "phrasing": "okay but what deadline or thing is stressing you out?",
+    "used_count": 0
+  },
+  {
+    "id": "q0071",
+    "emotion_category": "stressed",
+    "phrasing": "okay but what's making today feel like too much?",
+    "used_count": 0
+  },
+  {
+    "id": "q0072",
+    "emotion_category": "stressed",
+    "phrasing": "okay but what's the thing you can't stop thinking about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0073",
+    "emotion_category": "lonely",
+    "phrasing": "so, what's making today feel quiet?",
+    "used_count": 0
+  },
+  {
+    "id": "q0074",
+    "emotion_category": "lonely",
+    "phrasing": "so, who do you wish was around right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0075",
+    "emotion_category": "lonely",
+    "phrasing": "so, what's making you feel far from people today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0076",
+    "emotion_category": "lonely",
+    "phrasing": "so, what's missing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0077",
+    "emotion_category": "lonely",
+    "phrasing": "so, what would make today feel less empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0078",
+    "emotion_category": "lonely",
+    "phrasing": "hey, what's making today feel quiet?",
+    "used_count": 0
+  },
+  {
+    "id": "q0079",
+    "emotion_category": "lonely",
+    "phrasing": "hey, who do you wish was around right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0080",
+    "emotion_category": "lonely",
+    "phrasing": "hey, what's making you feel far from people today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0081",
+    "emotion_category": "lonely",
+    "phrasing": "hey, what's missing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0082",
+    "emotion_category": "lonely",
+    "phrasing": "hey, what would make today feel less empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0083",
+    "emotion_category": "lonely",
+    "phrasing": "real talk \u2014 what's making today feel quiet?",
+    "used_count": 0
+  },
+  {
+    "id": "q0084",
+    "emotion_category": "lonely",
+    "phrasing": "real talk \u2014 who do you wish was around right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0085",
+    "emotion_category": "lonely",
+    "phrasing": "real talk \u2014 what's making you feel far from people today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0086",
+    "emotion_category": "lonely",
+    "phrasing": "real talk \u2014 what's missing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0087",
+    "emotion_category": "lonely",
+    "phrasing": "real talk \u2014 what would make today feel less empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0088",
+    "emotion_category": "lonely",
+    "phrasing": "quick check-in: what's making today feel quiet?",
+    "used_count": 0
+  },
+  {
+    "id": "q0089",
+    "emotion_category": "lonely",
+    "phrasing": "quick check-in: who do you wish was around right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0090",
+    "emotion_category": "lonely",
+    "phrasing": "quick check-in: what's making you feel far from people today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0091",
+    "emotion_category": "lonely",
+    "phrasing": "quick check-in: what's missing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0092",
+    "emotion_category": "lonely",
+    "phrasing": "quick check-in: what would make today feel less empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0093",
+    "emotion_category": "lonely",
+    "phrasing": "okay but what's making today feel quiet?",
+    "used_count": 0
+  },
+  {
+    "id": "q0094",
+    "emotion_category": "lonely",
+    "phrasing": "okay but who do you wish was around right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0095",
+    "emotion_category": "lonely",
+    "phrasing": "okay but what's making you feel far from people today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0096",
+    "emotion_category": "lonely",
+    "phrasing": "okay but what's missing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0097",
+    "emotion_category": "anxious",
+    "phrasing": "so, what's making your mind race today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0098",
+    "emotion_category": "anxious",
+    "phrasing": "so, what's the thing you keep worrying about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0099",
+    "emotion_category": "anxious",
+    "phrasing": "so, what's making today feel uncertain?",
+    "used_count": 0
+  },
+  {
+    "id": "q0100",
+    "emotion_category": "anxious",
+    "phrasing": "so, what's the worst-case thought stuck in your head?",
+    "used_count": 0
+  },
+  {
+    "id": "q0101",
+    "emotion_category": "anxious",
+    "phrasing": "so, what's got your stomach in knots?",
+    "used_count": 0
+  },
+  {
+    "id": "q0102",
+    "emotion_category": "anxious",
+    "phrasing": "hey, what's making your mind race today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0103",
+    "emotion_category": "anxious",
+    "phrasing": "hey, what's the thing you keep worrying about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0104",
+    "emotion_category": "anxious",
+    "phrasing": "hey, what's making today feel uncertain?",
+    "used_count": 0
+  },
+  {
+    "id": "q0105",
+    "emotion_category": "anxious",
+    "phrasing": "hey, what's the worst-case thought stuck in your head?",
+    "used_count": 0
+  },
+  {
+    "id": "q0106",
+    "emotion_category": "anxious",
+    "phrasing": "hey, what's got your stomach in knots?",
+    "used_count": 0
+  },
+  {
+    "id": "q0107",
+    "emotion_category": "anxious",
+    "phrasing": "real talk \u2014 what's making your mind race today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0108",
+    "emotion_category": "anxious",
+    "phrasing": "real talk \u2014 what's the thing you keep worrying about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0109",
+    "emotion_category": "anxious",
+    "phrasing": "real talk \u2014 what's making today feel uncertain?",
+    "used_count": 0
+  },
+  {
+    "id": "q0110",
+    "emotion_category": "anxious",
+    "phrasing": "real talk \u2014 what's the worst-case thought stuck in your head?",
+    "used_count": 0
+  },
+  {
+    "id": "q0111",
+    "emotion_category": "anxious",
+    "phrasing": "real talk \u2014 what's got your stomach in knots?",
+    "used_count": 0
+  },
+  {
+    "id": "q0112",
+    "emotion_category": "anxious",
+    "phrasing": "quick check-in: what's making your mind race today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0113",
+    "emotion_category": "anxious",
+    "phrasing": "quick check-in: what's the thing you keep worrying about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0114",
+    "emotion_category": "anxious",
+    "phrasing": "quick check-in: what's making today feel uncertain?",
+    "used_count": 0
+  },
+  {
+    "id": "q0115",
+    "emotion_category": "anxious",
+    "phrasing": "quick check-in: what's the worst-case thought stuck in your head?",
+    "used_count": 0
+  },
+  {
+    "id": "q0116",
+    "emotion_category": "anxious",
+    "phrasing": "quick check-in: what's got your stomach in knots?",
+    "used_count": 0
+  },
+  {
+    "id": "q0117",
+    "emotion_category": "anxious",
+    "phrasing": "okay but what's making your mind race today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0118",
+    "emotion_category": "anxious",
+    "phrasing": "okay but what's the thing you keep worrying about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0119",
+    "emotion_category": "anxious",
+    "phrasing": "okay but what's making today feel uncertain?",
+    "used_count": 0
+  },
+  {
+    "id": "q0120",
+    "emotion_category": "anxious",
+    "phrasing": "okay but what's the worst-case thought stuck in your head?",
+    "used_count": 0
+  },
+  {
+    "id": "q0121",
+    "emotion_category": "proud",
+    "phrasing": "so, what did you get through today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0122",
+    "emotion_category": "proud",
+    "phrasing": "so, what are you proud of right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0123",
+    "emotion_category": "proud",
+    "phrasing": "so, what did you handle better than you expected?",
+    "used_count": 0
+  },
+  {
+    "id": "q0124",
+    "emotion_category": "proud",
+    "phrasing": "so, what's something you did today that mattered?",
+    "used_count": 0
+  },
+  {
+    "id": "q0125",
+    "emotion_category": "proud",
+    "phrasing": "so, what's a win, even a small one, from today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0126",
+    "emotion_category": "proud",
+    "phrasing": "hey, what did you get through today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0127",
+    "emotion_category": "proud",
+    "phrasing": "hey, what are you proud of right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0128",
+    "emotion_category": "proud",
+    "phrasing": "hey, what did you handle better than you expected?",
+    "used_count": 0
+  },
+  {
+    "id": "q0129",
+    "emotion_category": "proud",
+    "phrasing": "hey, what's something you did today that mattered?",
+    "used_count": 0
+  },
+  {
+    "id": "q0130",
+    "emotion_category": "proud",
+    "phrasing": "hey, what's a win, even a small one, from today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0131",
+    "emotion_category": "proud",
+    "phrasing": "real talk \u2014 what did you get through today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0132",
+    "emotion_category": "proud",
+    "phrasing": "real talk \u2014 what are you proud of right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0133",
+    "emotion_category": "proud",
+    "phrasing": "real talk \u2014 what did you handle better than you expected?",
+    "used_count": 0
+  },
+  {
+    "id": "q0134",
+    "emotion_category": "proud",
+    "phrasing": "real talk \u2014 what's something you did today that mattered?",
+    "used_count": 0
+  },
+  {
+    "id": "q0135",
+    "emotion_category": "proud",
+    "phrasing": "real talk \u2014 what's a win, even a small one, from today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0136",
+    "emotion_category": "proud",
+    "phrasing": "quick check-in: what did you get through today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0137",
+    "emotion_category": "proud",
+    "phrasing": "quick check-in: what are you proud of right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0138",
+    "emotion_category": "proud",
+    "phrasing": "quick check-in: what did you handle better than you expected?",
+    "used_count": 0
+  },
+  {
+    "id": "q0139",
+    "emotion_category": "proud",
+    "phrasing": "quick check-in: what's something you did today that mattered?",
+    "used_count": 0
+  },
+  {
+    "id": "q0140",
+    "emotion_category": "proud",
+    "phrasing": "quick check-in: what's a win, even a small one, from today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0141",
+    "emotion_category": "proud",
+    "phrasing": "okay but what did you get through today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0142",
+    "emotion_category": "proud",
+    "phrasing": "okay but what are you proud of right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0143",
+    "emotion_category": "proud",
+    "phrasing": "okay but what did you handle better than you expected?",
+    "used_count": 0
+  },
+  {
+    "id": "q0144",
+    "emotion_category": "proud",
+    "phrasing": "okay but what's something you did today that mattered?",
+    "used_count": 0
+  },
+  {
+    "id": "q0145",
+    "emotion_category": "tired",
+    "phrasing": "so, what's drained you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0146",
+    "emotion_category": "tired",
+    "phrasing": "so, what's left you running on empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0147",
+    "emotion_category": "tired",
+    "phrasing": "so, what would actual rest look like right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0148",
+    "emotion_category": "tired",
+    "phrasing": "so, what's the thing you don't have energy for anymore?",
+    "used_count": 0
+  },
+  {
+    "id": "q0149",
+    "emotion_category": "tired",
+    "phrasing": "so, what's wiped you out today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0150",
+    "emotion_category": "tired",
+    "phrasing": "hey, what's drained you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0151",
+    "emotion_category": "tired",
+    "phrasing": "hey, what's left you running on empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0152",
+    "emotion_category": "tired",
+    "phrasing": "hey, what would actual rest look like right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0153",
+    "emotion_category": "tired",
+    "phrasing": "hey, what's the thing you don't have energy for anymore?",
+    "used_count": 0
+  },
+  {
+    "id": "q0154",
+    "emotion_category": "tired",
+    "phrasing": "hey, what's wiped you out today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0155",
+    "emotion_category": "tired",
+    "phrasing": "real talk \u2014 what's drained you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0156",
+    "emotion_category": "tired",
+    "phrasing": "real talk \u2014 what's left you running on empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0157",
+    "emotion_category": "tired",
+    "phrasing": "real talk \u2014 what would actual rest look like right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0158",
+    "emotion_category": "tired",
+    "phrasing": "real talk \u2014 what's the thing you don't have energy for anymore?",
+    "used_count": 0
+  },
+  {
+    "id": "q0159",
+    "emotion_category": "tired",
+    "phrasing": "real talk \u2014 what's wiped you out today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0160",
+    "emotion_category": "tired",
+    "phrasing": "quick check-in: what's drained you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0161",
+    "emotion_category": "tired",
+    "phrasing": "quick check-in: what's left you running on empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0162",
+    "emotion_category": "tired",
+    "phrasing": "quick check-in: what would actual rest look like right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0163",
+    "emotion_category": "tired",
+    "phrasing": "quick check-in: what's the thing you don't have energy for anymore?",
+    "used_count": 0
+  },
+  {
+    "id": "q0164",
+    "emotion_category": "tired",
+    "phrasing": "quick check-in: what's wiped you out today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0165",
+    "emotion_category": "tired",
+    "phrasing": "okay but what's drained you today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0166",
+    "emotion_category": "tired",
+    "phrasing": "okay but what's left you running on empty?",
+    "used_count": 0
+  },
+  {
+    "id": "q0167",
+    "emotion_category": "tired",
+    "phrasing": "okay but what would actual rest look like right now?",
+    "used_count": 0
+  },
+  {
+    "id": "q0168",
+    "emotion_category": "tired",
+    "phrasing": "okay but what's the thing you don't have energy for anymore?",
+    "used_count": 0
+  },
+  {
+    "id": "q0169",
+    "emotion_category": "excited",
+    "phrasing": "so, what are you looking forward to?",
+    "used_count": 0
+  },
+  {
+    "id": "q0170",
+    "emotion_category": "excited",
+    "phrasing": "so, what's got you buzzing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0171",
+    "emotion_category": "excited",
+    "phrasing": "so, what's the thing you can't wait to tell someone?",
+    "used_count": 0
+  },
+  {
+    "id": "q0172",
+    "emotion_category": "excited",
+    "phrasing": "so, what's coming up that you're excited about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0173",
+    "emotion_category": "excited",
+    "phrasing": "so, what's making today feel like a good one?",
+    "used_count": 0
+  },
+  {
+    "id": "q0174",
+    "emotion_category": "excited",
+    "phrasing": "hey, what are you looking forward to?",
+    "used_count": 0
+  },
+  {
+    "id": "q0175",
+    "emotion_category": "excited",
+    "phrasing": "hey, what's got you buzzing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0176",
+    "emotion_category": "excited",
+    "phrasing": "hey, what's the thing you can't wait to tell someone?",
+    "used_count": 0
+  },
+  {
+    "id": "q0177",
+    "emotion_category": "excited",
+    "phrasing": "hey, what's coming up that you're excited about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0178",
+    "emotion_category": "excited",
+    "phrasing": "hey, what's making today feel like a good one?",
+    "used_count": 0
+  },
+  {
+    "id": "q0179",
+    "emotion_category": "excited",
+    "phrasing": "real talk \u2014 what are you looking forward to?",
+    "used_count": 0
+  },
+  {
+    "id": "q0180",
+    "emotion_category": "excited",
+    "phrasing": "real talk \u2014 what's got you buzzing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0181",
+    "emotion_category": "excited",
+    "phrasing": "real talk \u2014 what's the thing you can't wait to tell someone?",
+    "used_count": 0
+  },
+  {
+    "id": "q0182",
+    "emotion_category": "excited",
+    "phrasing": "real talk \u2014 what's coming up that you're excited about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0183",
+    "emotion_category": "excited",
+    "phrasing": "real talk \u2014 what's making today feel like a good one?",
+    "used_count": 0
+  },
+  {
+    "id": "q0184",
+    "emotion_category": "excited",
+    "phrasing": "quick check-in: what are you looking forward to?",
+    "used_count": 0
+  },
+  {
+    "id": "q0185",
+    "emotion_category": "excited",
+    "phrasing": "quick check-in: what's got you buzzing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0186",
+    "emotion_category": "excited",
+    "phrasing": "quick check-in: what's the thing you can't wait to tell someone?",
+    "used_count": 0
+  },
+  {
+    "id": "q0187",
+    "emotion_category": "excited",
+    "phrasing": "quick check-in: what's coming up that you're excited about?",
+    "used_count": 0
+  },
+  {
+    "id": "q0188",
+    "emotion_category": "excited",
+    "phrasing": "quick check-in: what's making today feel like a good one?",
+    "used_count": 0
+  },
+  {
+    "id": "q0189",
+    "emotion_category": "excited",
+    "phrasing": "okay but what are you looking forward to?",
+    "used_count": 0
+  },
+  {
+    "id": "q0190",
+    "emotion_category": "excited",
+    "phrasing": "okay but what's got you buzzing today?",
+    "used_count": 0
+  },
+  {
+    "id": "q0191",
+    "emotion_category": "excited",
+    "phrasing": "okay but what's the thing you can't wait to tell someone?",
+    "used_count": 0
+  },
+  {
+    "id": "q0192",
+    "emotion_category": "excited",
+    "phrasing": "okay but what's coming up that you're excited about?",
+    "used_count": 0
+  }
+]

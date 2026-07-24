@@ -1,0 +1,632 @@
+[
+  {
+    "id": "g0001",
+    "sentiment_tag": "happy",
+    "search_query": "dog zoomies",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0002",
+    "sentiment_tag": "happy",
+    "search_query": "confetti pop",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0003",
+    "sentiment_tag": "happy",
+    "search_query": "excited clapping",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0004",
+    "sentiment_tag": "happy",
+    "search_query": "happy dance",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0005",
+    "sentiment_tag": "happy",
+    "search_query": "cat headbutt affection",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0006",
+    "sentiment_tag": "happy",
+    "search_query": "sunshine timelapse",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0007",
+    "sentiment_tag": "happy",
+    "search_query": "double thumbs up",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0008",
+    "sentiment_tag": "happy",
+    "search_query": "party popper",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0009",
+    "sentiment_tag": "happy",
+    "search_query": "wiggling puppy",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0010",
+    "sentiment_tag": "happy",
+    "search_query": "high five",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0011",
+    "sentiment_tag": "happy",
+    "search_query": "cheering crowd small",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0012",
+    "sentiment_tag": "happy",
+    "search_query": "cartoon sparkle happy",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0013",
+    "sentiment_tag": "happy",
+    "search_query": "kid running excited",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0014",
+    "sentiment_tag": "happy",
+    "search_query": "balloon release",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0015",
+    "sentiment_tag": "happy",
+    "search_query": "victory fist pump",
+    "fallback_style": "\ud83d\ude04",
+    "file_path": null
+  },
+  {
+    "id": "g0016",
+    "sentiment_tag": "sad",
+    "search_query": "single tear cartoon",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0017",
+    "sentiment_tag": "sad",
+    "search_query": "slow head shake sad",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0018",
+    "sentiment_tag": "sad",
+    "search_query": "wilting flower",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0019",
+    "sentiment_tag": "sad",
+    "search_query": "rain on window",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0020",
+    "sentiment_tag": "sad",
+    "search_query": "sad trombone",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0021",
+    "sentiment_tag": "sad",
+    "search_query": "deflating balloon",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0022",
+    "sentiment_tag": "sad",
+    "search_query": "puppy sad eyes",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0023",
+    "sentiment_tag": "sad",
+    "search_query": "cartoon rain cloud",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0024",
+    "sentiment_tag": "sad",
+    "search_query": "slow blink sad",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0025",
+    "sentiment_tag": "sad",
+    "search_query": "candle flickering out",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0026",
+    "sentiment_tag": "sad",
+    "search_query": "sad violin cartoon",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0027",
+    "sentiment_tag": "sad",
+    "search_query": "wilted plant timelapse",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0028",
+    "sentiment_tag": "sad",
+    "search_query": "grey sky timelapse",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0029",
+    "sentiment_tag": "sad",
+    "search_query": "single umbrella rain",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0030",
+    "sentiment_tag": "sad",
+    "search_query": "quiet empty room",
+    "fallback_style": "\ud83d\ude14",
+    "file_path": null
+  },
+  {
+    "id": "g0031",
+    "sentiment_tag": "stressed",
+    "search_query": "juggling too many balls",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0032",
+    "sentiment_tag": "stressed",
+    "search_query": "typing frantically",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0033",
+    "sentiment_tag": "stressed",
+    "search_query": "spinning pinwheel fast",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0034",
+    "sentiment_tag": "stressed",
+    "search_query": "steam from ears cartoon",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0035",
+    "sentiment_tag": "stressed",
+    "search_query": "clock hands spinning",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0036",
+    "sentiment_tag": "stressed",
+    "search_query": "overloaded plate stacking",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0037",
+    "sentiment_tag": "stressed",
+    "search_query": "cartoon sweat drop",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0038",
+    "sentiment_tag": "stressed",
+    "search_query": "traffic jam timelapse",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0039",
+    "sentiment_tag": "stressed",
+    "search_query": "papers flying everywhere",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0040",
+    "sentiment_tag": "stressed",
+    "search_query": "hamster wheel spinning",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0041",
+    "sentiment_tag": "stressed",
+    "search_query": "kettle boiling over",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0042",
+    "sentiment_tag": "stressed",
+    "search_query": "juggler dropping pins",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0043",
+    "sentiment_tag": "stressed",
+    "search_query": "cartoon short circuit",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0044",
+    "sentiment_tag": "stressed",
+    "search_query": "frazzled cat",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0045",
+    "sentiment_tag": "stressed",
+    "search_query": "overflowing inbox",
+    "fallback_style": "\ud83d\ude16",
+    "file_path": null
+  },
+  {
+    "id": "g0046",
+    "sentiment_tag": "lonely",
+    "search_query": "single chair empty room",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0047",
+    "sentiment_tag": "lonely",
+    "search_query": "one lamp lit at night",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0048",
+    "sentiment_tag": "lonely",
+    "search_query": "solo swing moving slowly",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0049",
+    "sentiment_tag": "lonely",
+    "search_query": "phone screen dim no notifications",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0050",
+    "sentiment_tag": "lonely",
+    "search_query": "single set of footprints",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0051",
+    "sentiment_tag": "lonely",
+    "search_query": "empty bench park",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0052",
+    "sentiment_tag": "lonely",
+    "search_query": "one star in dark sky",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0053",
+    "sentiment_tag": "lonely",
+    "search_query": "single candle small room",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0054",
+    "sentiment_tag": "lonely",
+    "search_query": "quiet hallway long",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0055",
+    "sentiment_tag": "lonely",
+    "search_query": "one plate at table",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0056",
+    "sentiment_tag": "lonely",
+    "search_query": "closed curtains dim room",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0057",
+    "sentiment_tag": "lonely",
+    "search_query": "single boat on calm water",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0058",
+    "sentiment_tag": "lonely",
+    "search_query": "dim porch light night",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0059",
+    "sentiment_tag": "lonely",
+    "search_query": "empty subway platform",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0060",
+    "sentiment_tag": "lonely",
+    "search_query": "one umbrella walking alone",
+    "fallback_style": "\ud83e\udec2",
+    "file_path": null
+  },
+  {
+    "id": "g0061",
+    "sentiment_tag": "anxious",
+    "search_query": "nail biting cartoon",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0062",
+    "sentiment_tag": "anxious",
+    "search_query": "pacing back and forth",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0063",
+    "sentiment_tag": "anxious",
+    "search_query": "cartoon heart racing",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0064",
+    "sentiment_tag": "anxious",
+    "search_query": "shaky hands cartoon",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0065",
+    "sentiment_tag": "anxious",
+    "search_query": "spinning compass unsure",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0066",
+    "sentiment_tag": "anxious",
+    "search_query": "cartoon question marks swirling",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0067",
+    "sentiment_tag": "anxious",
+    "search_query": "fidgeting hands",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0068",
+    "sentiment_tag": "anxious",
+    "search_query": "wide eyes blinking fast",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0069",
+    "sentiment_tag": "anxious",
+    "search_query": "storm clouds gathering",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0070",
+    "sentiment_tag": "anxious",
+    "search_query": "tightrope wobble",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0071",
+    "sentiment_tag": "anxious",
+    "search_query": "cartoon sweat nervous",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0072",
+    "sentiment_tag": "anxious",
+    "search_query": "door creaking slowly",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0073",
+    "sentiment_tag": "anxious",
+    "search_query": "maze from above",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0074",
+    "sentiment_tag": "anxious",
+    "search_query": "static tv flicker",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0075",
+    "sentiment_tag": "anxious",
+    "search_query": "held breath bubble",
+    "fallback_style": "\ud83d\ude2c",
+    "file_path": null
+  },
+  {
+    "id": "g0076",
+    "sentiment_tag": "proud",
+    "search_query": "medal ceremony cartoon",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0077",
+    "sentiment_tag": "proud",
+    "search_query": "trophy shine",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0078",
+    "sentiment_tag": "proud",
+    "search_query": "checkmark stamp satisfying",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0079",
+    "sentiment_tag": "proud",
+    "search_query": "cartoon flexing arm",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0080",
+    "sentiment_tag": "proud",
+    "search_query": "finish line tape break",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0081",
+    "sentiment_tag": "proud",
+    "search_query": "graduation cap toss",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0082",
+    "sentiment_tag": "proud",
+    "search_query": "star badge pop",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0083",
+    "sentiment_tag": "proud",
+    "search_query": "mountain summit flag",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0084",
+    "sentiment_tag": "proud",
+    "search_query": "cartoon chest puff",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0085",
+    "sentiment_tag": "proud",
+    "search_query": "gold star sticker",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0086",
+    "sentiment_tag": "proud",
+    "search_query": "applause hands cartoon",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0087",
+    "sentiment_tag": "proud",
+    "search_query": "confident strut cartoon",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0088",
+    "sentiment_tag": "proud",
+    "search_query": "sunrise over hill",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0089",
+    "sentiment_tag": "proud",
+    "search_query": "level up game sound",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  },
+  {
+    "id": "g0090",
+    "sentiment_tag": "proud",
+    "search_query": "cartoon crown placed",
+    "fallback_style": "\ud83e\udd72",
+    "file_path": null
+  }
+]
